@@ -1,0 +1,2 @@
+com/example/desktop_drop/BuildConfig.java
+ com.example.desktop_drop.BuildConfig
