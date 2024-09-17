@@ -10,9 +10,6 @@ Kano is a Flutter-based text editor designed for Android devices, offering a sle
 - **Cross-Platform Development**: Built with Flutter, Kano takes advantage of fast and smooth cross-platform mobile app development.
 - **Lightweight and Efficient**: Optimized for performance, ensuring a responsive and fluid experience even with large text files.
 
-## Screenshots
-
-*(Include screenshots of the app's UI if available)*
 
 ## Technology Stack
 
